@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prefectura-ilb",
+  "private_key_id": "016a82dd2a74a9a731d40d2cde48c9a234d5d04a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChA7cA/gFJDgpE\n33yJiKGXhkrDe6SZqtUAaV6ECFInWBMmZrp/5BZmOKGS7yrgGJgOojcBpBRP1OB/\nniPASaaapHSxHjA03xa+jOKZWRjZizj7NCgzighAkdd7Pwq8txg858uuvlrZlYjK\no/zAEPGhe/j9E+AN+/sNTCD/PCV4Z6npcnn+2yG48D93g6XJAVylatIqc9H4xIbG\nVKi2efWXgdDdUTB6MYBk99qolB/pi/guB3NyE0/KAmOLHrMnNy6RnBUIn07PxtDH\nhEkoy3VPge5tw1ri7KrR1ki6W/1S4KO/jUQt1d6lwSBQ3jSiKNBQ2wRj8oSEIXWj\n7mJSvqxXAgMBAAECggEALsN/cSBUiz0yqlImP2OZWwK70A6m/aJp/pabxskL4zVn\nSm3nmKFMCCBGfQBNeYxrDUT7qNRYud7f3PC2/W/mnV9KLO7RnWl1l54fad5Ao14W\nDI9XZbCfOPGinb7vhWO//GBt/bB3fl45vnDmRXomU3pIFGijWCxo+7Gym66CS3eK\nKQC1C3yVLF/4ny+SjeeR/sPh7Prv9XqKKYeByZz9qQJh1ERPYHncvplBEsEC60KI\nytFwmfbiV4oD0Uga3WU34XGEyg4xtbwE06YtBcw0e9nfig15lirHWsbsDfmJ+PQ/\n6dlugiE5smvUUVWLeffv1tw8yR+E9gEQkhn7CXvT0QKBgQDLOZ3OviwLowpXjSzl\nyB15ewfdssHPuEXnT9VWa4dxVRQs2RhADNDOy79dYm+nQSin2L/3JZCnahOj62mZ\nsXLggQ7fDbJc2B/J3kn5e6rQdYzXWq3yOA05kuQAMZE+eUkjUt2KjV3q+RzapiA5\nE6V0dygMqoxEXAwqHTTcFokYFQKBgQDK0/Hanp793QSH3puyPPRZ3gxUg1umTgSq\npuuggCuiK+LbNHpPIP5+wLVw0c1ZXsyK+27EJ5yOu+xWFKqUczXUVjOpAcxtWuoN\nZfIvc4vw8tWZbeG9gzEIv5MoDg5l1XJC7nvpkTGBTbh9jERjIBKgbsYLQvwhyzMl\nO6Q7U/oBuwKBgGOreFgDMPrsFZBm7tQrVzlTO8Jhf2huyenuX4Uo656LyX9NYfVX\n07j4eHxGYNg4vsXDKjL+O3nALq3AMWRtgRfWdAK1ZvreDIkm+kTfgCEI5fBgytr2\n3pWUEzp9FOz88v/eDkV7m8o4LwyVWUxk9EqwffXoVy7Xriehd2FRtB8ZAoGBAKvX\nl9A2ldPVvrHyq4z+UbQWCfJMfIjRDukalQWdsdorPn+j3YBPHu97C/5y8n0mcTvL\nPJRaTy0rEFf6GG+/kLq+8fPdvzpjTWtelSsYxVa2FrxwOVKb5R5ZWS8VgaNLjQwi\nC7/esMexdn6AKaymDsH4ODhwXzeudj20YzeUtXtjAoGAKcnjcqSo+rbORYmlOm6r\njcYhB8mc0oOgpeOuuVYSsBI2BXPV7QfYd03idxcXTS781hwORmmTVWW3nebpXE22\nDrj+e5vW/RPe7dFobp8mtje4OzUbNL/rQyCnPLAA9T+Nk7FB916T9MT+nctlljX8\nHwrhejm9PvscUWJcOC4Wyp0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gs1fh@prefectura-ilb.iam.gserviceaccount.com",
+  "client_id": "107291191619951228679",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gs1fh%40prefectura-ilb.iam.gserviceaccount.com"
+}
